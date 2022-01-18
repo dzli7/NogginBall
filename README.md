@@ -7,6 +7,8 @@ Player 1 options: 1, 2, 3, 4, g
 Player 2: Arrow keys for movement, ‘,’ for kicking
 Player2 options: 5, 6, 7, 8, h
 
+Game is located in demos/game.c
+
 The Caltech honor code: “No member of the Caltech community shall take unfair advantage of any other member of the Caltech community."
 
 If you plan on taking CS3, do not look at this folder.
